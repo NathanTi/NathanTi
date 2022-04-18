@@ -10,6 +10,6 @@
 
 # Contatos ☎️
 
-📬E-mail: nathanbertonti@hotmail.com
+📬 E-mail: nathanbertonti@hotmail.com
 
-🐦Twitter: @Nathan_M_B_TI
+🐦 Twitter: @Nathan_M_B_TI
