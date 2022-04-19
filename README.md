@@ -6,7 +6,7 @@
 
 # Estou Aprendendo... 📖
  - Atualmente Estou Cursando o Bootcamp "Carrefour Web Developer" da DIO (Digital Innovation One).  
- - [JS + HTML + CSS + JAVA + REACTJS + GIT/GITHUB + SPRING BOOT]
+ - [JS + HTML + CSS + JAVA + REACTJS + GIT/GITHUB + SPRING BOOT + SCRUM]
 
 # Contatos ☎️
 
